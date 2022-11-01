@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm 
+![Image text](https://github.com/Zapata9664/Zapata9664/blob/main/logo.png)
 
 <!--
 **Zapata9664/Zapata9664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [TC360-FRONTEND](https://github.com/Zapata9664/TC360-FRONTEND)
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
