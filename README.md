@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## Contact me
 <p align="left" >
       <a href="mailto:valentinazapatajaramillo@gmail.com@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
-        <a href="https://www.linkedin.com/Zapata9664" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
+        <a href="https://www.linkedin.com/in/valentina-zapata-jaramillo-b6465b231/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
     <a href="https://twitter.com/Zapata9664" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059786-980a496d-654e-4d81-add4-b490553bf34d.png"  width="45"></a>
 
 ## About me
