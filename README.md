@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/Zapata9664" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059786-980a496d-654e-4d81-add4-b490553bf34d.png"  width="45"></a>
 
 ## About me
-- 🔭 I’m currently working on [TC360-FRONTEND](https://github.com/Zapata9664/TC360-FRONTEND)
+- 🔭 I’m currently working on [TC360-FRONTEND](https://github.com/Zapata9664/video-games-be)
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: ...
 
